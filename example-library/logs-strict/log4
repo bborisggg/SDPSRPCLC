@@ -1,7 +1,7 @@
 //  std::vector<double> alpha_coef = std::vector<double>(20,0.18);
-LOWER BOUND FOR NUMBER OF USED TRUCKS IS 2 / 1.62514 AND IT TOOK 101 ITERATIONS TO PROVE IT
+LOWER BOUND FOR NUMBER OF USED TRUCKS IS 2 / 1.61944 AND IT TOOK 44 ITERATIONS TO PROVE IT
 Truck 4 spends 343 minutes and delivers the following amounts: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-Truck 4 spends 368 minutes and delivers the following amounts: 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 
+Truck 4 spends 368 minutes and delivers the following amounts: 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 
 Truck 5 spends 262 minutes and delivers the following amounts: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 0 0 0 1 
 Truck 5 spends 415 minutes and delivers the following amounts: 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 1 1 0 0 0 0 0 0 0 0 0 
 Order 0 with boundaries 0 / 0 was processed by 0 trucks and the amounts delivered are: 
@@ -54,7 +54,7 @@ Order 46 with boundaries 0 / 8666 was processed by 0 trucks and the amounts deli
 Order 47 with boundaries 17 / 16523 was processed by 1 trucks and the amounts delivered are: 1 (5) 
 Order 48 with boundaries 0 / 11981 was processed by 0 trucks and the amounts delivered are: 
 Order 49 with boundaries 4316 / 16882 was processed by 1 trucks and the amounts delivered are: 1 (5) 
-Order 50 with boundaries 0 / 6547 was processed by 1 trucks and the amounts delivered are: 1 (4) 
+Order 50 with boundaries 0 / 6547 was processed by 0 trucks and the amounts delivered are: 
 Order 51 with boundaries 10844 / 22160 was processed by 1 trucks and the amounts delivered are: 1 (4) 
 Order 52 with boundaries 0 / 4205 was processed by 0 trucks and the amounts delivered are: 
 Order 53 with boundaries 2987 / 14044 was processed by 1 trucks and the amounts delivered are: 1 (5) 
