@@ -1,3 +1,4 @@
+// std::vector<double> alpha_coef = std::vector<double>(20,0.07);
 LOWER BOUND FOR NUMBER OF USED TRUCKS IS 2 / 1.08757 AND IT TOOK 43 ITERATIONS TO PROVE IT
 Truck 1 spends 394 minutes and delivers the following amounts: 0 0 0 0 0 0 1 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 1 0 0 0 0 0 
 Truck 4 spends 425 minutes and delivers the following amounts: 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 
