@@ -1,0 +1,126 @@
+// std::vector<double> alpha_coef = std::vector<double>(20,0.25);
+LOWER BOUND FOR NUMBER OF USED TRUCKS IS 3 / 2.86747 AND IT TOOK 51 ITERATIONS TO PROVE IT
+Truck 0 spends 249 minutes and delivers the following amounts: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+Truck 3 spends 285 minutes and delivers the following amounts: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+Truck 3 spends 418 minutes and delivers the following amounts: 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+Truck 5 spends 226 minutes and delivers the following amounts: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+Truck 5 spends 245 minutes and delivers the following amounts: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+Truck 5 spends 210 minutes and delivers the following amounts: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+Truck 8 spends 238 minutes and delivers the following amounts: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+Truck 8 spends 252 minutes and delivers the following amounts: 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+Order 0 with boundaries 0 / 0 was processed by 0 trucks and the amounts delivered are: 
+Order 1 with boundaries 0 / 4607 was processed by 0 trucks and the amounts delivered are: 
+Order 2 with boundaries 0 / 3184 was processed by 0 trucks and the amounts delivered are: 
+Order 3 with boundaries 0 / 6515 was processed by 0 trucks and the amounts delivered are: 
+Order 4 with boundaries 0 / 10431 was processed by 0 trucks and the amounts delivered are: 
+Order 5 with boundaries 0 / 5249 was processed by 0 trucks and the amounts delivered are: 
+Order 6 with boundaries 12673 / 24920 was processed by 1 trucks and the amounts delivered are: 1 (8) 
+Order 7 with boundaries 440 / 7433 was processed by 1 trucks and the amounts delivered are: 1 (8) 
+Order 8 with boundaries 485 / 7095 was processed by 1 trucks and the amounts delivered are: 1 (3) 
+Order 9 with boundaries 0 / 10463 was processed by 0 trucks and the amounts delivered are: 
+Order 10 with boundaries 0 / 7297 was processed by 0 trucks and the amounts delivered are: 
+Order 11 with boundaries 0 / 5835 was processed by 0 trucks and the amounts delivered are: 
+Order 12 with boundaries 0 / 10086 was processed by 0 trucks and the amounts delivered are: 
+Order 13 with boundaries 0 / 6741 was processed by 0 trucks and the amounts delivered are: 
+Order 14 with boundaries 0 / 6042 was processed by 0 trucks and the amounts delivered are: 
+Order 15 with boundaries 0 / 10610 was processed by 0 trucks and the amounts delivered are: 
+Order 16 with boundaries 1255 / 13966 was processed by 1 trucks and the amounts delivered are: 1 (8) 
+Order 17 with boundaries 0 / 6311 was processed by 0 trucks and the amounts delivered are: 
+Order 18 with boundaries 0 / 7076 was processed by 0 trucks and the amounts delivered are: 
+Order 19 with boundaries 0 / 7765 was processed by 0 trucks and the amounts delivered are: 
+Order 20 with boundaries 15340 / 39998 was processed by 1 trucks and the amounts delivered are: 1 (5) 
+Order 21 with boundaries 0 / 11406 was processed by 0 trucks and the amounts delivered are: 
+Order 22 with boundaries 841 / 11043 was processed by 1 trucks and the amounts delivered are: 1 (8) 
+Order 23 with boundaries 0 / 10492 was processed by 0 trucks and the amounts delivered are: 
+Order 24 with boundaries 0 / 4597 was processed by 0 trucks and the amounts delivered are: 
+Order 25 with boundaries 0 / 4059 was processed by 0 trucks and the amounts delivered are: 
+Order 26 with boundaries 952 / 11487 was processed by 1 trucks and the amounts delivered are: 1 (0) 
+Order 27 with boundaries 0 / 3212 was processed by 0 trucks and the amounts delivered are: 
+Order 28 with boundaries 0 / 7109 was processed by 0 trucks and the amounts delivered are: 
+Order 29 with boundaries 323 / 7236 was processed by 1 trucks and the amounts delivered are: 1 (5) 
+Order 30 with boundaries 3023 / 16651 was processed by 1 trucks and the amounts delivered are: 1 (5) 
+Order 31 with boundaries 0 / 12371 was processed by 1 trucks and the amounts delivered are: 1 (8) 
+Order 32 with boundaries 0 / 5254 was processed by 0 trucks and the amounts delivered are: 
+Order 33 with boundaries 441 / 10748 was processed by 1 trucks and the amounts delivered are: 1 (8) 
+Order 34 with boundaries 0 / 8084 was processed by 0 trucks and the amounts delivered are: 
+Order 35 with boundaries 0 / 5172 was processed by 0 trucks and the amounts delivered are: 
+Order 36 with boundaries 0 / 5191 was processed by 0 trucks and the amounts delivered are: 
+Order 37 with boundaries 0 / 6220 was processed by 0 trucks and the amounts delivered are: 
+Order 38 with boundaries 0 / 6549 was processed by 0 trucks and the amounts delivered are: 
+Order 39 with boundaries 0 / 4445 was processed by 0 trucks and the amounts delivered are: 
+Order 40 with boundaries 0 / 4839 was processed by 0 trucks and the amounts delivered are: 
+Order 41 with boundaries 0 / 4443 was processed by 0 trucks and the amounts delivered are: 
+Order 42 with boundaries 0 / 5734 was processed by 0 trucks and the amounts delivered are: 
+Order 43 with boundaries 0 / 3956 was processed by 0 trucks and the amounts delivered are: 
+Order 44 with boundaries 0 / 6557 was processed by 0 trucks and the amounts delivered are: 
+Order 45 with boundaries 0 / 7696 was processed by 0 trucks and the amounts delivered are: 
+Order 46 with boundaries 4207 / 19511 was processed by 1 trucks and the amounts delivered are: 1 (3) 
+Order 47 with boundaries 1843 / 10744 was processed by 1 trucks and the amounts delivered are: 1 (0) 
+Order 48 with boundaries 3322 / 14180 was processed by 1 trucks and the amounts delivered are: 1 (0) 
+Order 49 with boundaries 0 / 5301 was processed by 0 trucks and the amounts delivered are: 
+Order 50 with boundaries 0 / 5877 was processed by 0 trucks and the amounts delivered are: 
+Order 51 with boundaries 0 / 7814 was processed by 0 trucks and the amounts delivered are: 
+Order 52 with boundaries 0 / 5475 was processed by 0 trucks and the amounts delivered are: 
+Order 53 with boundaries 0 / 12859 was processed by 0 trucks and the amounts delivered are: 
+Order 54 with boundaries 0 / 7804 was processed by 0 trucks and the amounts delivered are: 
+Order 55 with boundaries 423 / 9564 was processed by 1 trucks and the amounts delivered are: 1 (3) 
+Order 56 with boundaries 0 / 5835 was processed by 0 trucks and the amounts delivered are: 
+Order 57 with boundaries 0 / 5370 was processed by 0 trucks and the amounts delivered are: 
+Order 58 with boundaries 3666 / 17719 was processed by 1 trucks and the amounts delivered are: 1 (3) 
+Order 59 with boundaries 500 / 10470 was processed by 1 trucks and the amounts delivered are: 1 (3) 
+Order 60 with boundaries 0 / 3769 was processed by 0 trucks and the amounts delivered are: 
+Order 61 with boundaries 0 / 5961 was processed by 0 trucks and the amounts delivered are: 
+Order 62 with boundaries 1962 / 9687 was processed by 1 trucks and the amounts delivered are: 1 (8) 
+Order 63 with boundaries 2071 / 11883 was processed by 1 trucks and the amounts delivered are: 1 (5) 
+Order 64 with boundaries 0 / 4300 was processed by 0 trucks and the amounts delivered are: 
+Order 65 with boundaries 0 / 7151 was processed by 0 trucks and the amounts delivered are: 
+Order 66 with boundaries 1963 / 10542 was processed by 1 trucks and the amounts delivered are: 1 (3) 
+Order 67 with boundaries 0 / 7147 was processed by 0 trucks and the amounts delivered are: 
+Order 68 with boundaries 0 / 12533 was processed by 1 trucks and the amounts delivered are: 1 (5) 
+Order 69 with boundaries 0 / 6914 was processed by 0 trucks and the amounts delivered are: 
+Order 70 with boundaries 0 / 8815 was processed by 0 trucks and the amounts delivered are: 
+Order 71 with boundaries 0 / 4747 was processed by 0 trucks and the amounts delivered are: 
+Order 72 with boundaries 0 / 11884 was processed by 0 trucks and the amounts delivered are: 
+Order 73 with boundaries 5355 / 12298 was processed by 1 trucks and the amounts delivered are: 1 (0) 
+Order 74 with boundaries 0 / 8357 was processed by 0 trucks and the amounts delivered are: 
+Order 75 with boundaries 2491 / 8922 was processed by 1 trucks and the amounts delivered are: 1 (5) 
+Order 76 with boundaries 598 / 12227 was processed by 1 trucks and the amounts delivered are: 1 (5) 
+Order 77 with boundaries 0 / 6645 was processed by 0 trucks and the amounts delivered are: 
+Order 78 with boundaries 825 / 7794 was processed by 1 trucks and the amounts delivered are: 1 (5) 
+Order 79 with boundaries 3126 / 9689 was processed by 1 trucks and the amounts delivered are: 1 (5) 
+Order 80 with boundaries 0 / 8269 was processed by 0 trucks and the amounts delivered are: 
+Order 81 with boundaries 0 / 6877 was processed by 0 trucks and the amounts delivered are: 
+Order 82 with boundaries 0 / 9407 was processed by 0 trucks and the amounts delivered are: 
+Order 83 with boundaries 0 / 6417 was processed by 0 trucks and the amounts delivered are: 
+Order 84 with boundaries 0 / 5545 was processed by 0 trucks and the amounts delivered are: 
+Order 85 with boundaries 0 / 8005 was processed by 0 trucks and the amounts delivered are: 
+Order 86 with boundaries 0 / 7587 was processed by 0 trucks and the amounts delivered are: 
+Order 87 with boundaries 0 / 5742 was processed by 0 trucks and the amounts delivered are: 
+Order 88 with boundaries 0 / 4420 was processed by 0 trucks and the amounts delivered are: 
+Order 89 with boundaries 0 / 5181 was processed by 0 trucks and the amounts delivered are: 
+Order 90 with boundaries 0 / 5638 was processed by 0 trucks and the amounts delivered are: 
+Order 91 with boundaries 2119 / 13595 was processed by 1 trucks and the amounts delivered are: 1 (3) 
+Order 92 with boundaries 1563 / 10371 was processed by 1 trucks and the amounts delivered are: 1 (3) 
+Order 93 with boundaries 0 / 4630 was processed by 0 trucks and the amounts delivered are: 
+Order 94 with boundaries 1212 / 8591 was processed by 1 trucks and the amounts delivered are: 1 (3) 
+Order 95 with boundaries 11696 / 30767 was processed by 1 trucks and the amounts delivered are: 1 (5) 
+Order 96 with boundaries 2805 / 9051 was processed by 1 trucks and the amounts delivered are: 1 (3) 
+Order 97 with boundaries 0 / 7660 was processed by 0 trucks and the amounts delivered are: 
+Order 98 with boundaries 0 / 4703 was processed by 0 trucks and the amounts delivered are: 
+Order 99 with boundaries 0 / 15240 was processed by 0 trucks and the amounts delivered are: 
+Order 100 with boundaries 0 / 11447 was processed by 0 trucks and the amounts delivered are: 
+Order 101 with boundaries 1588 / 11256 was processed by 1 trucks and the amounts delivered are: 1 (8) 
+Order 102 with boundaries 0 / 6539 was processed by 0 trucks and the amounts delivered are: 
+Order 103 with boundaries 0 / 6479 was processed by 0 trucks and the amounts delivered are: 
+Order 104 with boundaries 0 / 12183 was processed by 0 trucks and the amounts delivered are: 
+Order 105 with boundaries 0 / 4928 was processed by 0 trucks and the amounts delivered are: 
+Order 106 with boundaries 0 / 4030 was processed by 0 trucks and the amounts delivered are: 
+Order 107 with boundaries 0 / 6623 was processed by 0 trucks and the amounts delivered are: 
+Order 108 with boundaries 0 / 8503 was processed by 0 trucks and the amounts delivered are: 
+Order 109 with boundaries 0 / 5843 was processed by 0 trucks and the amounts delivered are: 
+Order 110 with boundaries 0 / 11803 was processed by 0 trucks and the amounts delivered are: 
+Order 111 with boundaries 0 / 15065 was processed by 0 trucks and the amounts delivered are: 
+Order 112 with boundaries 0 / 7634 was processed by 0 trucks and the amounts delivered are: 
+Order 113 with boundaries 0 / 8635 was processed by 0 trucks and the amounts delivered are: 
+Order 114 with boundaries 0 / 5917 was processed by 0 trucks and the amounts delivered are: 
+Order 115 with boundaries 0 / 3930 was processed by 0 trucks and the amounts delivered are: 
