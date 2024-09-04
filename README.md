@@ -1,4 +1,4 @@
-# Single-depot petrol station replenishment problem with full loading constraint
+# Single-depot petrol station replenishment problem with complex loading constraints
 
 In this work we consider a specific case of petrol replenishment problem that is closer to the
 workflow of Russian petroleum companies. Our formulation supposes that each
